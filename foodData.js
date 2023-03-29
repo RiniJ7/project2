@@ -6,7 +6,7 @@ var iconicFoods = [
     {name: 'BC', food1: 'Pacific Salmon', food2:'Dungeness Crab'},
     {name: 'MB', food1: 'Flapper pie', food2:'Bannock'},
     {name: 'SK', food1: 'Saskatoon berry pie', food2:'Regina Style Pizza'},
-    {name: 'ON', food1: 'Butter tarts', food2:'Beaver Tails'},
+    {name: 'ON', food1: 'Butter tarts', food2:'Maple syrup'},
     {name: 'NS', food1: 'Halifax donair', food2:'Creamed Lobster'},
     {name: 'QC', food1: 'Poutine', food2:'Crepes'},
     {name: 'PE', food1: 'Fries with the works',food2:'Lobster Supper'},
